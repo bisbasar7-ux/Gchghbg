@@ -1,0 +1,11 @@
+{
+  "name": "Remix Remix LICHI AI — Intelligent 3D Android Companion",
+  "description": "Intelligent 3D Android AI companion powered by Gemini with Camera Vision, Device Control, Bengali \u0026 English voice, and complete runnable Android Studio project.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
